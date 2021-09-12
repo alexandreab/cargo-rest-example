@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "Cargo"
+version = "0.1.0"
+description = ""
+authors = ["Alexandre Barbosa <alexandreab@live.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Django = "^3.2.7"
+djangorestframework = "^3.12.4"
+coreapi = "^2.3.3"
+
+[tool.poetry.dev-dependencies]
+ipython = "^7.27.0"
+flake8 = "^3.9.2"
+pylint = "^2.10.2"
+coverage = "^5.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

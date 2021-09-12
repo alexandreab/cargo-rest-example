@@ -1,0 +1,99 @@
+{
+  "bikes": [
+    {
+      "id": "BK_001",
+      "fleet": "FL_001",
+      "status": "unlocked",
+      "location": {
+        "latitude": 52.08466738004343,
+        "longitude": 4.3185523728791075
+      }
+    },
+    {
+      "id": "BK_002",
+      "fleet": "FL_001",
+      "status": "locked",
+      "location": {
+        "latitude": 52.088171187038256,
+        "longitude": 4.288506655157303
+      }
+    },
+    {
+      "id": "BK_003",
+      "fleet": "FL_001",
+      "status": "locked",
+      "location": {
+        "latitude": 52.087023227852605,
+        "longitude": 4.248387450952773
+      }
+    },
+    {
+      "id": "BK_004",
+      "fleet": "FL_002",
+      "status": "locked",
+      "location": {
+        "latitude": 52.36623489297726,
+        "longitude": 4.918148840679546
+      }
+    },
+    {
+      "id": "BK_005",
+      "fleet": "FL_002",
+      "status": "unlocked",
+      "location": {
+        "latitude": 52.36025661656375,
+        "longitude": 4.919353330642675
+      }
+    },
+    {
+      "id": "BK_006",
+      "fleet": "FL_002",
+      "status": "unlocked",
+      "location": {
+        "latitude": 52.3653099404057,
+        "longitude": 4.847556656477732
+      }
+    },
+    {
+      "id": "BK_007",
+      "fleet": "FL_003",
+      "status": "locked",
+      "location": {
+        "latitude": 52.10032444004832,
+        "longitude": 5.1266257732824805
+      }
+    },
+    {
+      "id": "BK_008",
+      "fleet": "FL_003",
+      "status": "locked",
+      "location": {
+        "latitude": 52.10578641832864,
+        "longitude": 5.08737860132916
+      }
+    },
+    {
+      "id": "BK_009",
+      "fleet": "FL_003",
+      "status": "locked",
+      "location": {
+        "latitude": 52.09398461023647,
+        "longitude": 5.029327111569923
+      }
+    }
+  ],
+  "fleets": [
+    {
+      "id": "FL_001",
+      "name": "Den Haag"
+    },
+    {
+      "id": "FL_002",
+      "name": "Amsterdam"
+    },
+    {
+      "id": "FL_003",
+      "name": "Utrecht"
+    }
+  ]
+}
